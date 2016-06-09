@@ -1,0 +1,4 @@
+"a","b","c","d","e"
+"Jefferson Airplane","5","null","0.0","False"
+"Frantz Fanon", "2394817", "{'Dweezil': False, 'Jacobin': 'riot', 'pickapeck': 'of pickled peppers' }","18.2","False"
+"enemigo@imail.ru","0119","{'Dweezil': True, 'Jacobin': 'guillotine', 'pickapeck': 'pap' }", "-1.1", "True"
